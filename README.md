@@ -20,6 +20,7 @@ LCD_ADC_AVR/
 │   ├── utils.c         # Helper functions for math/formatting
 │   ├── utils.h         # Helper function interfaces
 │   └── main.c          # Main application loop
+├── legacy/             # Original monolithic source and simulation files
 ├── tests/
 │   └── test_logic.py   # Python unit tests for calculation logic
 ├── visualization/
